@@ -2,7 +2,7 @@
 
 **`💻Aspiring Software Engineer and also known and former eletronic sports PRO🎮`**
 
-I'm a front-end developer and student with some knowledge in CSS, HTML, Javascript, C, Python and ready to start my journey trough Angular to develop more skills.
+I'm a front-end developer and student with some knowledge in CSS, HTML, Javascript, C, Python and ready to start my journey trough Angular to develop more skills, if you wanna know a bit more about me this could help 😺[Linkedin](https://www.linkedin.com/in/jo%C3%A3o-horvath/)
 
 ---
 
